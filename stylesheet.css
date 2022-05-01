@@ -1,0 +1,59 @@
+body {
+	background-color: #00ad88;
+	padding:0px;
+	margin:0px;
+	padding-top:10%;
+}
+
+.inputBox {
+	background-color: #93cfc2;
+	width:50%;
+	height:75%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 10px 10px #00795f;
+}
+
+h1 {
+	font-family: tomarik-display, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	padding-top:5%;
+}
+
+.inputHolder {
+	height:50%;
+	width:90%;
+	margin-top:5%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+textarea {
+	border:0px;
+	height:100%;
+	width:100%;
+	outline: none;
+	font-family: tablet-gothic,sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+h2 {
+	font-family: tomarik-display, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	padding-top: 7%;
+}
+
+#sendButton {
+	background-color: #f7f37c;
+	width:20%;
+	height:10%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 25px;
+	margin-top:3%;
+}
